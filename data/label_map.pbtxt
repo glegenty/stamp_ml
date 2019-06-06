@@ -1,66 +1,21 @@
 item {
     id: 1
-    name: 'stamp1'
+    name: 'quadripus-dithering'
 }
 
 
 item {
     id: 2
-    name: 'stamp2'
+    name: 'fongibra-dithering'
 }
 
 item {
     id: 3
-    name: 'stamp3'
+    name: 'diplopoda-dithering'
 }
 
 
 item {
     id: 4
-    name: 'stamp4'
+    name: 'bulbus-dithering'
 }
-
-item {
-    id: 5
-    name: 'stamp5'
-}
-
-
-item {
-    id: 6
-    name: 'stamp6'
-}
-
-item {
-    id: 7
-    name: 'stamp7'
-}
-
-
-item {
-    id: 8
-    name: 'stamp8'
-}
-
-item {
-    id: 9
-    name: 'stamp9'
-}
-
-
-item {
-    id: 10
-    name: 'stamp10'
-}
-
-item {
-    id: 11
-    name: 'stamp11'
-}
-
-
-item {
-    id: 12
-    name: 'stamp12'
-}
-
